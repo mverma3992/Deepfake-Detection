@@ -1,6 +1,5 @@
 # Deepfake Detection Project
 
-![Deepfake Detection Banner](https://via.placeholder.com/1200x400?text=Deepfake+Detection+Project)
 
 ## Overview
 This project provides a robust and efficient deepfake detection system powered by advanced machine learning techniques. Deepfake content, including manipulated videos and images, poses a growing threat to information integrity. This model identifies and flags fake content, helping to maintain trust in digital media.
